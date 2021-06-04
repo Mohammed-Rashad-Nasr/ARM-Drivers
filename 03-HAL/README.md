@@ -1,4 +1,4 @@
-# Welcome to my Microcontroller Abstraction Layer (MCAL)
+# Welcome to my Hardware Abstraction Layer (HAL)
 
 
 here you can find drivers for these peripherals :
